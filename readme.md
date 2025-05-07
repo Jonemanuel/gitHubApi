@@ -61,12 +61,6 @@ node index.js
 
 ---
 
-### 📸 Captura de tela (opcional)
-
-> Adicione aqui uma imagem do terminal ou da interface, se desejar.
-
----
-
 ### 📄 Licença
 
 MIT License
